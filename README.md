@@ -21,7 +21,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Bobpaulada10/Bobpaulada10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img align="center" height="150" src="https://cdn.discordapp.com/attachments/1351602984924090388/1361085754192957631/Tumblr-l-342043269307003.gif?ex=69b5ce63&is=69b47ce3&hm=d8544064e298abe71a3f8bef5a6f54c5e9de7a73cef31e7bc54fa6ede9d54910&" />
+</div>
       
 <br>
 <br>
