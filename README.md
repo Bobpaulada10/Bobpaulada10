@@ -37,7 +37,7 @@ When I'm not coding, I'm probably crashing in some game, messing around in Blend
 
 ## Top Projects *(built to avoid manual labor)*
 
-<img src="https://i.pinimg.com/736x/b6/67/36/b6673673d4dd58d34ceef574a67d762f.jpg" align="right" width="130px"/>
+<img src="https://i.pinimg.com/736x/b6/67/36/b6673673d4dd58d34ceef574a67d762f.jpg" align="right" width="195px"/>
 
 <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; My personal site. Every dev needs one.
 
