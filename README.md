@@ -1,138 +1,122 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFFFFF"/>
-
-<br>
+<img width="100%" src="https://i.ibb.co/CKp2JBB2/Programador.png" alt="BobPaulada Banner"/>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
-</div>
-
-<div align="center">
-  
-  <b>`Bob Paulada`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>BobPaulada</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I%27m+a+Front-End+Developer;Building+modern+web+experiences;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;React+%26+Modern+Front-End;Turning+ideas+into+interactive+interfaces;Always+learning+new+technologies;Clean+code+%26+responsive+design;Mobile-first+development;Creating+the+future+of+the+web;Passionate+about+UI+%26+UX;Let%27s+build+something+amazing" alt="Typing SVG"/>
+  <a href="https://github.com/Bobpaulada10?tab=stars">
+    <img src="https://img.shields.io/github/stars/Bobpaulada10?style=flat-square&logo=github&label=STARS&color=0d0d0d&labelColor=0d0d0d&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bobpaulada10?tab=repositories">
+    <img src="https://img.shields.io/github/forks/Bobpaulada10/Bobpaulada10?style=flat-square&logo=github&label=FORKS&color=0d0d0d&labelColor=0d0d0d&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bobpaulada10?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bobpaulada10?style=flat-square&logo=github&label=FOLLOWERS&color=0d0d0d&labelColor=0d0d0d&logoColor=white"/>
+  </a>
 </div>
 
 <br>
 
+---
+
+## Know About Me
+
+<img src="https://i.pinimg.com/736x/67/57/ad/6757ad135afb2b04016cff6155ddf75f.jpg" align="left" width="155px"/>
+
+**Hey there! I'm BobPaulada**
+
+I'm a Front-End Developer with an unhealthy obsession with dark themes and clean interfaces.
+By day, I build pixel-perfect UIs. By night, I'm pushing commits wondering why the CSS still isn't working.
+
+When I'm not coding, I'm probably crashing in some game, messing around in Blender, or building something nobody asked for but everyone needs.
+
+> *"Every line of code is just a polite argument with the computer."*
+
+<br clear="left"/>
+
+---
+
+## Top Projects *(built to avoid manual labor)*
+
+<img src="https://i.pinimg.com/736x/b6/67/36/b6673673d4dd58d34ceef574a67d762f.jpg" align="right" width="130px"/>
+
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; My personal site. Every dev needs one.
+
+<a href="#"><img src="https://img.shields.io/badge/DISCORD BOT-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; Manages my server better than I manage my schedule.
+
+<a href="#"><img src="https://img.shields.io/badge/UI COMPONENTS-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; Dark-mode components I actually use.
+
+<a href="#"><img src="https://img.shields.io/badge/LUA SCRIPTS-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; Scripts that make games bend to my will.
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
 <div align="center">
-  <img align="center" height="150" src="https://cdn.discordapp.com/attachments/1351602984924090388/1361085754192957631/Tumblr-l-342043269307003.gif?ex=69b5ce63&is=69b47ce3&hm=d8544064e298abe71a3f8bef5a6f54c5e9de7a73cef31e7bc54fa6ede9d54910&" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="38" alt="Lua"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="Blender"/>
 </div>
-      
-<br>
-<br>
-      
-<table>
-<tr>
-<td width="35%">
-
-<img src="https://i.pinimg.com/originals/62/b4/d2/62b4d21eb045a1cfb5da1e667fd7a6eb.gif" width="100%"/>
-
-</td>
-
-<td width="65%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bobpaulada10&theme=apprentice"/>
-
-<br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bobpaulada10&theme=apprentice" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bobpaulada10&theme=apprentice" width="49%"/>
-
-<br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bobpaulada10&theme=apprentice" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bobpaulada10&theme=apprentice&utcOffset=8" width="49%"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center" style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
 
 <br>
-<br>
+
+---
+
+## Connect
 
 <div align="center">
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br><br>
-
   <a href="mailto:filipa.eva.ariana0769@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff">
+    <img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.instagram.com/eunaosei666bob/?next=%2F">
-    <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff">
+  &nbsp;
+  <a href="https://www.instagram.com/eunaosei666bob/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff">
+    <img src="https://img.shields.io/badge/DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/bobpaulada/">
-    <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
 
+<br>
+
+> *Code is never finished. It only becomes slightly less terrible over time.*
+>
+> *Every commit I make is essentially a small, desperate apology to my future self.*
+
+<br>
+
+---
+
+## Contribution
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bobpaulada10&bg_color=0d0d0d&color=555555&line=333333&point=ffffff&area_color=111111&area=true&hide_border=true&title_color=ffffff" width="98%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <p align="center">
-    <samp>
-      🐱‍👤 <a href="https://rentry.co/">rentry</a> ⊹
-      <a href="https://linktr.ee/">linktr.ee</a> ⊹
-      <a href="">carrd.co</a> ⊹
-      <a href="">notion</a> 🐱‍👤
-    </samp>
-  </p>
-</div>
-
-</div>
-<br>
-
-</details>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=bobpaulada10&style=flat-square&color=123845" /></p> 
+  <img src="https://komarev.com/ghpvc/?username=bobpaulada10&style=flat-square&color=0d0d0d&label=PROFILE+VIEWS"/>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFFFFF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D0D&section=footer"/>
