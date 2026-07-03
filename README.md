@@ -39,7 +39,7 @@ When I'm not coding, I'm probably crashing in some game, messing around in Blend
 
 <img src="https://i.pinimg.com/736x/b6/67/36/b6673673d4dd58d34ceef574a67d762f.jpg" align="right" width="195px"/>
 
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; My personal site. Every dev needs one.
+<a href="https://bobpaulada.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; My personal site. Every dev needs one.
 
 <a href="#"><img src="https://img.shields.io/badge/DISCORD BOT-0d0d0d?style=flat-square&logo=github&logoColor=white"/></a> &nbsp; Manages my server better than I manage my schedule.
 
